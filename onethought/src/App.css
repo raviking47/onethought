@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=Young+Serif&display=swap');
+.App {
+  min-height:100vh ;
+  
+  text-align: center;
+  display: block;
+  background-color:  #000000;
+   /* background-image: url("./image/2109.jpg"); */
+  background-position: center;
+  justify-content: center;
+  color: white;
+  font-family: 'Young Seri';
+  /* font-size: 15px; */
+}
